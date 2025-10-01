@@ -4,6 +4,20 @@ Este projeto simula a configuração de uma **rede corporativa** para a empresa 
 
 ---
 
+## 🧠 Habilidades Demonstradas
+Este projeto comprova a proficiência nas seguintes configurações e conceitos de redes:
+
+* **Subnetting e Endereçamento IP:** Criação de sub-redes e distribuição de endereços IP com máscara `/27`.
+* **Configuração de VLANs:** Segmentação lógica de rede para isolar tráfego por setor (VLAN 10 e VLAN 20).
+* **Roteamento Inter-VLAN:** Implementação do **Router-on-a-Stick** para permitir a comunicação entre diferentes VLANs.
+* **Distribuição de Serviços:** Configuração e gerenciamento dos protocolos **DHCP** e endereçamento estático.
+* **Simulação de Redes:** Uso eficaz do software **Cisco Packet Tracer** para modelagem e testes.
+
+### 💻 Metodologia Utilizada
+A metodologia adotada foi a **simulação prática** de uma topologia corporativa, com foco na arquitetura hierárquica e implementação de soluções de conectividade e segmentação, utilizando o simulador **Cisco Packet Tracer** como ambiente de testes.
+
+---
+
 ## 🛠️ Detalhes da Topologia e Equipamentos
 
 ### Topologia
@@ -45,6 +59,14 @@ Para visualizar o projeto e as configurações, você precisará ter o **Cisco P
 
 ---
 
+## ✨ Lições Aprendidas
+
+Este projeto reforçou a importância do **planejamento prévio** e da **flexibilidade** em ambientes de simulação. A necessidade de adaptar a topologia (de estrela completa para parcialmente encadeada) devido à limitação de hardware demonstrou a habilidade de encontrar **soluções alternativas** eficientes para problemas reais.
+
 ## ✅ Resultados e Conclusão
 
 O projeto foi implementado com sucesso, validando a **comunicação satisfatória** em testes de ping entre dispositivos na mesma VLAN, em VLANs diferentes (validando o roteamento) e entre os setores. A adaptação da topologia para contornar a limitação do simulador demonstrou flexibilidade na resolução de problemas.
+
+---
+
+Este projeto é um portfólio acadêmico, focado na aplicação prática de configurações de rede e solução de problemas de topologia.
